@@ -1,11 +1,11 @@
 # DIU23
 Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
 
-Grupo: DIU1_01AABB.  Curso: 2022/23 
-Updated: 11/1/2023
+Grupo: DIU1_06CasiCAU.  Curso: 2022/23 
+Updated: 17/4/2023
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Propuesta de Valor sobre negocio turistico (Tablao Flamenco)
 
 Descripción: 
 
@@ -19,11 +19,6 @@ Miembros
  * :bust_in_silhouette:  Manuel Jesús López García     :octocat:
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
 
 # Proceso de Diseño 
 
