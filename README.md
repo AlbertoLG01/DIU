@@ -14,7 +14,7 @@ Descripción:
 
 Logotipo: 
 
-
+![logo](https://github.com/AlbertoLG01/DIU/assets/68781392/e0fb9dc8-7150-4342-9b4e-be9993a0cf11)
 
 Miembros
  * :bust_in_silhouette:   Alberto López García     :octocat:     
@@ -29,21 +29,31 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Entre las páginsa que hemos comparado para realizar el análisis de competidores, hemos encontrado algunas que son muy básicas pero hacen su funcionalidad correctamente y otras que están bastante sobrecargadas. En general, hemos valorado que las funcionalidades esenciales se cumplan y que se garanticen algunos requisitos no funcionales que nos aporten un poco de calidad como usuario consumidor de la página web.
+
+![compet](https://github.com/AlbertoLG01/DIU/assets/68781392/b6604e44-d8fd-4d3a-b170-0cd96894537d)
 
 ![Método UX](img/Persona.png) 1.b Persona
------
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> Para el análisis relacionado con las personas, hemos elegido dos candidatos que pueden tener unos intereses peculiares en visitar Granada y conocer la cultura flamenca. Hemos optado por coger opciones que proporcionen diversidad a la hora de analizar características e inquietudes de la página que se analiza.
+
+
+![personita1](https://github.com/AlbertoLG01/DIU/assets/68781392/53b3bb1d-fb3c-401c-be3c-6df936852ea4)
+
+![personita2](https://github.com/AlbertoLG01/DIU/assets/68781392/776ca7ca-6346-45aa-ac24-98f1beabf64a)
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
-----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Las dos experiencias de usuario que hemos escogido representan posibles formas de abordar una visita a la página del tablao flamenco con diferentes maneras de interpretar las emociones que se pueden sentir según la situación en la que nos encontremos. 
+
+![persona1](https://github.com/AlbertoLG01/DIU/assets/68781392/c123b553-1b89-41af-aa55-6de1460f5295)
+
+![persona2](https://github.com/AlbertoLG01/DIU/assets/68781392/ab500bc2-569c-4b88-9472-01115dfa8bac)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
-----
+
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
