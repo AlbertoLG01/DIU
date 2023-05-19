@@ -131,9 +131,9 @@ Término | Significado
 
 
 >>> Para el landing page, hemos pensado en hacer algo simple que contenga un texto que atraiga al usuario para que pulse los botones que se proporcionan:
-·Inicio
-·Contacto
-·Comprar entrada
+>>> ·Inicio
+>>> ·Contacto
+>>> ·Comprar entrada
 
 Cada uno llevará a una página distinta posteriormente
 
