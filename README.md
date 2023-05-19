@@ -112,7 +112,9 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación) 
+>>>El diseño del layout para Web/movil (organización y simulación) es el siguiente: 
+
+[Layout.pdf](https://github.com/AlbertoLG01/DIU/files/11520299/Layout.pdf)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
@@ -121,7 +123,8 @@ Término | Significado
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
->>> Descripcion
+>>> En este documento, hemos explicado todos los contenidos que utilizamos en nuestra página.
+>>> Por ejemplo, hemos especificado algunas frases identificativas, algunas paletas de colores, algunas fotos o incluso algunos comentarios resaltables:
 
 ![moodboard](https://github.com/AlbertoLG01/DIU/assets/68781392/e11f2eac-bdc0-4b56-904a-fad4bedcbddf)
 
@@ -143,30 +146,45 @@ Cada uno llevará a una página distinta posteriormente
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> Estudio de Guidelines y Patrones IU a usar
+
 >>> A la hora de documentarnos para guiarnos con los distintos "Guidelines" que se proporcionan, nos llamó la atención sobretodo:
 
 ·NAVBAR
- -> Cuando nos pusimos a realizar el menú, nos dimos cuenta de que lo más cómodo era utilizar esta herramienta
+ -> Cuando nos pusimos a realizar el menú, nos dimos cuenta de que lo más cómodo era utilizar esta herramienta.
 
 ·DROPDOWN
  -> En el propio menú, cuando quieres seleccionar una opción, nos pareció buena idea añadir un dropdown para así poder acceder fácilmente al submenú solo con mantener el cursor encima de los botones que añadimos en el MockUp.
+ 
+·Tipografía legible
+ -> Seleccionamos fuentes legibles y adecuadas para el contenido de tu página web. Asegúrate de que el tamaño de la fuente sea lo suficientemente grande para una fácil lectura. Considera el contraste entre el texto y el fondo para garantizar una buena legibilidad.
+ 
+·Diseño limpio y minimalista
+ -> Evitamos la sobrecarga visual y opta por un diseño limpio y minimalista. Utiliza espacios en blanco generosamente para que el contenido respire y sea más fácil de leer. Mantén los elementos visuales y gráficos coherentes y alineados.
+ 
+·Organización y estructura clara
+ -> Creamos una estructura de navegación intuitiva y jerárquica para que los visitantes puedan encontrar fácilmente la información que están buscando. Utiliza encabezados, subencabezados y etiquetas claras para dividir el contenido y hacerlo más legible.
+ 
+·Llamadas a la acción claras
+ -> Utilizamos botones o enlaces prominentes para dirigir a los usuarios a realizar acciones específicas, como comprar, registrarse o suscribirse. Asegúrate de que tus CTA sean claros y se destaquen visualmente para captar la atención de los visitantes.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
-
+![mock](https://github.com/AlbertoLG01/DIU/assets/68781392/bb766ca6-3fa3-4347-bd0e-4c57d38ba689)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+>>> Para concluir, en resumen, hemos hecho un video donde podemos apreciar una posible navegaciín dentro de esta página con todas las herramientas que hemos mencionado y utilizado anteriormente.
+
+
+https://github.com/AlbertoLG01/DIU/assets/68781392/3f91b5cf-f180-4d98-864f-feaedbb1c4cb
+
 
 
 ## Paso 4. Evaluación 
