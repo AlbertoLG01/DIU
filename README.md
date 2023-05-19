@@ -55,9 +55,9 @@ Miembros
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Enlace al documento:  P1/Usability-review.pdf
+>>> - Valoración final (numérica): 84
+>>> - Comentario sobre la valoración:  A la hora de evaluar la página web de La Alboreá, nos ha salido un valor bastante alto para la cantidad de errores que hemos encontrado. Quizá hayamos valorado muy positivamente algunos aspectos pero hemos especificado en el documento los errores funcionales que hemos encontrado.
 
 
 ## Paso 2. UX Design  
@@ -66,10 +66,7 @@ Miembros
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
-[Feedback Capture Grid (Community).pdf](https://github.com/AlbertoLG01/DIU/files/11519703/Feedback.Capture.Grid.Community.pdf)
-
-
-
+![empathy](https://github.com/AlbertoLG01/DIU/assets/68781392/42eda35c-4f97-4613-b134-1eaf56cbf4b2)
 
 
  Interesante | Críticas     
@@ -85,13 +82,20 @@ Miembros
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
-----
->>> Propuesta de valor 
+....
+
+>>> En este apartado, hemos creado un scope canvas de modelo para incluir una breve descripción y explicar en qué consiste nuestro proyecto. Aportando nuevas ideas para la página web del tablao de modo que la experiencia del usuario mejore y atraiga a nuevos usuarios.
+
+![canvas](https://github.com/AlbertoLG01/DIU/assets/68781392/818d311a-ee4f-48c6-ab81-a1316b713b7b)
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
------
 
->>> Definir "User Map" y "Task Flow" ... 
+....
+
+>>> En este punto realizamos un esquema de las distintas secciones que va a tener la web que proponemos. Se puede ver un diagrama en el que se observa las dependencias de las distintas páginas, además de una tabla con una breve descripción de cada una de las páginas. 
+
+
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
@@ -108,7 +112,7 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> Plantear el  diseño del layout para Web/movil (organización y simulación) 
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
@@ -117,28 +121,44 @@ Término | Significado
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+>>> Descripcion
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+![moodboard](https://github.com/AlbertoLG01/DIU/assets/68781392/e11f2eac-bdc0-4b56-904a-fad4bedcbddf)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
 
->>> Plantear Landing Page 
+>>> Para el landing page, hemos pensado en hacer algo simple que contenga un texto que atraiga al usuario para que pulse los botones que se proporcionan:
+·Inicio
+·Contacto
+·Comprar entrada
+
+Cada uno llevará a una página distinta posteriormente
+
+![landing](https://github.com/AlbertoLG01/DIU/assets/68781392/2f5de4ba-945f-4441-b095-ca715589730f)
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
 >>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> A la hora de documentarnos para guiarnos con los distintos "Guidelines" que se proporcionan, nos llamó la atención sobretodo:
+
+·NAVBAR
+ -> Cuando nos pusimos a realizar el menú, nos dimos cuenta de que lo más cómodo era utilizar esta herramienta
+
+·DROPDOWN
+ -> En el propio menú, cuando quieres seleccionar una opción, nos pareció buena idea añadir un dropdown para así poder acceder fácilmente al submenú solo con mantener el cursor encima de los botones que añadimos en el MockUp.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+
+
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
