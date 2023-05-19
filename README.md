@@ -5,14 +5,16 @@ Grupo: DIU1_06CasiCAU.  Curso: 2022/23
 Updated: 17/4/2023
 
 Proyecto: 
->>> Propuesta de Valor sobre negocio turistico (Tablao Flamenco)
+
+Nuestra Propuesta de Valor para la página web de nuestro negocio de Tablao Flamenco es brindar a nuestros visitantes una experiencia interactiva y envolvente que les permita descubrir y conectarse con la magia del flamenco desde cualquier lugar del mundo.
 
 Descripción: 
 
 >>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
+
 
 Miembros
  * :bust_in_silhouette:   Alberto López García     :octocat:     
@@ -55,8 +57,10 @@ Miembros
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
+[Feedback Capture Grid (Community).pdf](https://github.com/AlbertoLG01/DIU/files/11519703/Feedback.Capture.Grid.Community.pdf)
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+
+
 
 
  Interesante | Críticas     
