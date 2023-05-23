@@ -183,7 +183,10 @@ Cada uno llevará a una página distinta posteriormente
 >>> Para concluir, en resumen, hemos hecho un video donde podemos apreciar una posible navegaciín dentro de esta página con todas las herramientas que hemos mencionado y utilizado anteriormente.
 
 
-https://github.com/AlbertoLG01/DIU/assets/68781392/3f91b5cf-f180-4d98-864f-feaedbb1c4cb
+
+https://github.com/AlbertoLG01/DIU/assets/68781392/2bb7fa5e-f538-4ec0-9917-44880e932887
+
+
 
 
 
