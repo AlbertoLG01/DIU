@@ -173,7 +173,7 @@ Cada uno llevará a una página distinta posteriormente
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
-![mock](https://github.com/AlbertoLG01/DIU/blob/master/P3/layout-1.pdf)
+![mock](P3/layout-1.pdf)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
