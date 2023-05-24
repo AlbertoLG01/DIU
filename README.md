@@ -173,15 +173,13 @@ Cada uno llevará a una página distinta posteriormente
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
-[mock](P3/layout-1.pdf)
-
-
+[layout-1.pdf](https://github.com/AlbertoLG01/DIU/files/11553027/layout-1.pdf)
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
 
->>> Para concluir, en resumen, hemos hecho un video donde podemos apreciar una posible navegaciín dentro de esta página con todas las herramientas que hemos mencionado y utilizado anteriormente.
+>>> Para concluir, en resumen, hemos hecho un video donde podemos apreciar una posible navegación dentro de esta página con todas las herramientas que hemos mencionado y utilizado anteriormente.
 
 
 
