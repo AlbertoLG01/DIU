@@ -173,7 +173,7 @@ Cada uno llevará a una página distinta posteriormente
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
-[mock](https://github.com/AlbertoLG01/DIU/files/11552131/layout-1.pdf)
+[mock](P3/layout-1.pdf)
 
 
 
