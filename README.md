@@ -265,8 +265,11 @@ como la reserva de una actividad de las que ofertan.
 Recomendaciones
 
 >>>Algunos aspectos a mejorar son:
+
 >>>● Los enlaces del header solo son accesibles desde la página principal.
+
 >>>● No es fácil distinguir entre elementos seleccionables y no seleccionables.
+
 >>>● El proceso de realizar una reserva no está del todo definido
 
 
