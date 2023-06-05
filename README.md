@@ -1,8 +1,8 @@
 # DIU23
-Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Tablao Flamenco ) 
 
 Grupo: DIU1_06CasiCAU.  Curso: 2022/23 
-Updated: 17/4/2023
+Updated: 05/06/2023
 
 Proyecto: 
 
