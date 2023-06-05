@@ -8,10 +8,6 @@ Proyecto:
 
 Nuestra propuesta de valor para la página web de nuestro negocio de Tablao Flamenco es brindar a nuestros visitantes una experiencia interactiva y envolvente que les permita descubrir y conectarse con la magia del flamenco desde cualquier lugar del mundo.
 
-Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
-
 Logotipo: 
 
 ![logo](https://github.com/AlbertoLG01/DIU/assets/68781392/e0fb9dc8-7150-4342-9b4e-be9993a0cf11)
