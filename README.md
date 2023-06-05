@@ -188,8 +188,6 @@ https://github.com/AlbertoLG01/DIU/assets/68781392/2bb7fa5e-f538-4ec0-9917-44880
 
 
 
-
-
 ## Paso 4. Evaluación 
 
 
@@ -231,32 +229,50 @@ https://github.com/antonio8mg/DIU-WaxyTech
 >>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+>>> Cuestionarios:
+
+[1.pdf](https://github.com/AlbertoLG01/DIU/files/11653323/1.pdf)
+[2.pdf](https://github.com/AlbertoLG01/DIU/files/11653324/2.pdf)
+[3.pdf](https://github.com/AlbertoLG01/DIU/files/11653325/3.pdf)
+[4.pdf](https://github.com/AlbertoLG01/DIU/files/11653326/4.pdf)
+
+>>> Valoración:
+Para el caso B, cabe destacar que ambos usuarios han llegado a la misma conclusión tras realizar las
+tareas, la página la han valorado en cuanto a estética ya que a la hora de llevar a cabo
+las tareas se han dado cuenta de que algunas de las funcionalidades que eran necesarias
+no estaban implementadas, lo que hacía imposible terminar la tarea o les dificultaba el
+proceso.
+
+Por otro lado, para el caso A, a pesar de permitir más interacción con la web, la estética llama
+menos la atención de los usuarios.
+
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> [P4_UsabReport_City-Roamers_doneby_DIU2_WaxyTech.pdf](https://github.com/AlbertoLG01/DIU/files/11653281/P4_UsabReport_City-Roamers_doneby_DIU2_WaxyTech.pdf)
+>>> [P4_UsabReport_City-Roamers_doneby_DIU2_WaxyTech.pdf](https://github.com/AlbertoLG01/DIU/files/11653281/P4_UsabReport_City-Roamers_doneby_DIU2_WaxyTech.pdf)
 
 
->>> Valoración personal 
+>>> Valoración personal:
+>>> Teniendo en cuenta los resultados obtenidos, nos encontramos con una web atractiva al
+usuario con una estética sencilla que no satura al usuario y con una organización fácil de
+entender.
+Como punto flojo tenemos la funcionalidad de la web, ya que aunque el prototipo cumple
+estéticamente con los objetivos, nos deja con las ganas de poder tener más interacción
+con la página y poder comprobar cómo se llevarían a cabo actividades tan esenciales
+como la reserva de una actividad de las que ofertan.
+Recomendaciones
+Algunos aspectos a mejorar son:
+● Los enlaces del header solo son accesibles desde la página principal.
+● No es fácil distinguir entre elementos seleccionables y no seleccionables.
+● El proceso de realizar una reserva no está del todo definido
 
 
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
+>>> ## Paso 5. Eye Tracking
 
+>>> Informe de resultados:  [Informe de resultados.pdf](https://github.com/AlbertoLG01/DIU/files/11653373/Informe.de.resultados.pdf)
 
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>>> ----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
 
 
 
