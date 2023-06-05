@@ -270,7 +270,7 @@ Algunos aspectos a mejorar son:
 ● El proceso de realizar una reserva no está del todo definido
 
 
->>> ## Paso 5. Eye Tracking
+## Paso 5. Eye Tracking
 
 >>> Informe de resultados:  [Informe de resultados.pdf](https://github.com/AlbertoLG01/DIU/files/11653373/Informe.de.resultados.pdf)
 
