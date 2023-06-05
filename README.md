@@ -8,6 +8,11 @@ Proyecto:
 
 Nuestra propuesta de valor para la página web de nuestro negocio de Tablao Flamenco es brindar a nuestros visitantes una experiencia interactiva y envolvente que les permita descubrir y conectarse con la magia del flamenco desde cualquier lugar del mundo.
 
+Descripción:
+
+El objetivo de este trabajo es realizar una actualización del diseño de la página web del tablao Alboreá Granada añadiendo nuevos logotipos y nuevas secciones con las que pueda
+interactuar el usuario.
+
 Logotipo: 
 
 ![logo](https://github.com/AlbertoLG01/DIU/assets/68781392/e0fb9dc8-7150-4342-9b4e-be9993a0cf11)
@@ -25,7 +30,7 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Entre las páginsa que hemos comparado para realizar el análisis de competidores, hemos encontrado algunas que son muy básicas pero hacen su funcionalidad correctamente y otras que están bastante sobrecargadas. En general, hemos valorado que las funcionalidades esenciales se cumplan y que se garanticen algunos requisitos no funcionales que nos aporten un poco de calidad como usuario consumidor de la página web.
+>>> Entre las páginas que hemos comparado para realizar el análisis de competidores, hemos encontrado algunas que son muy básicas pero hacen su funcionalidad correctamente y otras que están bastante sobrecargadas. En general, hemos valorado que las funcionalidades esenciales se cumplan y que se garanticen algunos requisitos no funcionales que nos aporten un poco de calidad como usuario consumidor de la página web.
 
 ![compet](https://github.com/AlbertoLG01/DIU/assets/68781392/b6604e44-d8fd-4d3a-b170-0cd96894537d)
 
