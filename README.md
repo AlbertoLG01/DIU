@@ -197,21 +197,32 @@ https://github.com/AlbertoLG01/DIU/assets/68781392/2bb7fa5e-f538-4ec0-9917-44880
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+>>> City-Roamers Granada es una web en la que podemos encontrar ofertas de rutas
+turísticas por toda la provincia de Granada, guiadas por su grupo de staff. Además de
+eventos turísticos también cubren gran variedad de actividades como conciertos, teatro,
+talleres…
+La web proporciona una sección de actividades en la que podemos ver las actividades
+que se ofrecen y la posibilidad de aplicar filtros como la fecha de disponibilidad,
+categorías de las actividades y características de estas. También ofrece la opción de
+registrarse para administrar las actividades o la opción de gestionarlas sin estar
+registrado.
+
+https://github.com/antonio8mg/DIU-WaxyTech
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+>>> Hemos seleccionado las 4 personas que se representan en la tabla. Cada una nos aportará un punto de vista distinto dependiendo de su situación personal (ocupación, sentimientos...).
+
  
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Usuarios   | Sexo/Edad| Ocupación       |  Exp.TIC    | Personalidad | Plataforma | TestA/B
+| ---------- | -------- | --------------- | ----------- | -----------  | ---------- | ----
+| Marian     | M / 58   | Administrativo  | Media       | Extrovertido | Web.       | A 
+| Pedro      | H / 30   | Parado          | Media       | Timido       | Web        | B 
+| Paula      | M / 22   | Estudiante      | Media       | Emocional    | Web        | B 
+| Jorge      | H / 41   | Mecánico        | Media       | Racional     | Web        | A 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
@@ -219,7 +230,6 @@ https://github.com/AlbertoLG01/DIU/assets/68781392/2bb7fa5e-f538-4ec0-9917-44880
 
 >>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
@@ -227,8 +237,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
+>> [P4_UsabReport_City-Roamers_doneby_DIU2_WaxyTech.pdf](https://github.com/AlbertoLG01/DIU/files/11653281/P4_UsabReport_City-Roamers_doneby_DIU2_WaxyTech.pdf)
 
 
 >>> Valoración personal 
