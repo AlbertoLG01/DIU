@@ -243,7 +243,6 @@ tareas, la página la han valorado en cuanto a estética ya que a la hora de lle
 las tareas se han dado cuenta de que algunas de las funcionalidades que eran necesarias
 no estaban implementadas, lo que hacía imposible terminar la tarea o les dificultaba el
 proceso.
-
 Por otro lado, para el caso A, a pesar de permitir más interacción con la web, la estética llama
 menos la atención de los usuarios.
 
@@ -273,7 +272,6 @@ Algunos aspectos a mejorar son:
 ## Paso 5. Eye Tracking
 
 >>> Informe de resultados:  [Informe de resultados.pdf](https://github.com/AlbertoLG01/DIU/files/11653373/Informe.de.resultados.pdf)
-
 
 
 
